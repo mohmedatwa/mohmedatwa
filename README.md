@@ -82,10 +82,10 @@ ROS2-based indoor autonomous delivery robot featuring:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohmedatwa&show_icons=true&hide_border=true&count_private=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmedatwa&layout=compact&hide_border=true&theme=github_dark" height="180"/>
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohmedatwa&theme=github_dark"/>
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohmedatwa&theme=github_dark"/>
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohmedatwa&hide_border=true&theme=dark"/>
 </p>
