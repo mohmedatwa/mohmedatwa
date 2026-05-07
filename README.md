@@ -32,7 +32,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nav2-22314E?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAB+ElEQVR42m2S3UvTYRTHP8/ZnuHmz99yGSlNIhQzukgYQVDQRYVXtQSh/[...]
+  <img src="https://img.shields.io/badge/Nav2-22314E?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat"/>
   <img src="https://img.shields.io/badge/C%20Language-A8B9CC?style=flat&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
