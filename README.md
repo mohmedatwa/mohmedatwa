@@ -32,7 +32,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nav2-22314E?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAB+ElEQVR42m2S3UvTYRTHP8/ZnuHmz99yGSlNIhQzukgYQVDQRYVXtQSh/yAo6MI/oD8hSPGmv6B7ocKLCLqSUrK3ixmkYIZ7yTk3tzm353SxNweeq4eH830553yNqiqtUlWMMQDspXcJWosfOwuAc4qIabcSbD+cc4gIn1dWeL30lr1AiHqlymjU4/GjGS5NXO4hNqqqbdCHd2949btELpchcT9JfucvX1a/EhVlMXmdyalER0BUFREh+2eb5a0cpak7nB8IYyMDRIdHiHuW8u1ZXix9xNWqHUVxzgGQ+vmD/FiCw+wukf5+HBDoC0O9hh8SUv5FNjc2MMY0VdszFisVqn0DUKsi1jY/RZBAEK0fUY9EyeX3m0uELjAW9ZFCFhPxqB8dNRsaDRr1Y9SG6dtPEx8ZbvIBItLEXr02xdDWOtYf5LBYRFCOD0u4YIiDQpEb/OPC2DjOKUYEaXv2YkMkJ0cJbaxRDp/BlQpUc2mK3jm81WWePryLGmkZbVkVEZxz3Lo3zaxXIr/5i1ImzV46y8H6J57fHCc+cQVtnaJzx24IFDHKwsIi71Nb1MplniSneTAzQ6PRIBAIdJJjeiPnMEYoFPZZfDmP7/s8m5vDqSKmGzdObrXFA4C1Ida+fWdzewfnHL2QUxRPhj2TyWKtJRYb5LT6DxKj5PY0q+NjAAAAAElFTkSuQmCC&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nav2-22314E?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAB+ElEQVR42m2S3UvTYRTHP8/ZnuHmz99yGSlNIhQzukgYQVDQRYVXtQSh/[...]
   <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat"/>
   <img src="https://img.shields.io/badge/C%20Language-A8B9CC?style=flat&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
@@ -82,11 +82,20 @@ ROS2-based indoor autonomous delivery robot featuring:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohmedatwa&show_icons=true&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmedatwa&layout=compact&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohmedatwa&show_icons=true&hide_border=true&count_private=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmedatwa&layout=compact&hide_border=true&theme=github_dark" height="180"/>
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohmedatwa&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=mohmedatwa&hide_border=true&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohmedatwa&hide_border=true&theme=github-dark"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohmedatwa&color=blueviolet"/>
 </p>
 
 ---
