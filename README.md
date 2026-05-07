@@ -83,9 +83,9 @@ ROS2-based indoor autonomous delivery robot featuring:
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohmedatwa&theme=github_dark"/>
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohmedatwa&theme=github_dark"/>
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohmedatwa&hide_border=true&theme=dark"/>
 </p>
@@ -96,11 +96,10 @@ ROS2-based indoor autonomous delivery robot featuring:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohmedatwa&color=blueviolet"/>
-
-  ---
-  
-<p align="center">
-  <em>"Building intelligent robots for real-world environments."</em>
-</p
 </p>
 
+---
+
+<p align="center">
+  <em>"Building intelligent robots for real-world environments."</em>
+</p>
