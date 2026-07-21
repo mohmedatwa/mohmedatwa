@@ -1,7 +1,5 @@
 <h1 align="center">Mohamed Atwa</h1>
-<p align="center">
-  <em>Mechatronics & Robotics Engineer focused on autonomous mobile robots, ROS2, and intelligent robotic systems.</em>
-</p>
+
 <p align="center">
   <a href="https://github.com/mohmedatwa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
@@ -19,14 +17,7 @@
 
 ---
 
-## About Me
 
-- 🤖 Building autonomous robots using **ROS2**, **Nav2**, and **Gazebo**
-- 🧭 Interested in robotics software, navigation, control, and automation
-- 💻 Working with **C++**, **Python**, **Linux**, and embedded systems
-- 🚀 Passionate about AI-driven robotic systems and real-world deployment
-
----
 
 ## Tech Stack
 
@@ -58,26 +49,7 @@
 
 ---
 
-## Featured Projects
 
-### 🚚 Autonomous Delivery Robot
-ROS2-based indoor autonomous delivery robot featuring:
-- Nav2 autonomous navigation
-- EKF sensor fusion
-- SLAMTEC LiDAR localization
-- Mecanum omnidirectional drive
-- Web-based robot control interface
-
----
-
-## Currently Learning
-
-- Advanced robot navigation & planning
-- Multi-robot systems coordination
-- AI for robotics
-- Production-grade ROS2 architectures
-
----
 
 ## GitHub Stats
 
@@ -100,6 +72,4 @@ ROS2-based indoor autonomous delivery robot featuring:
 
 ---
 
-<p align="center">
-  <em>"Building intelligent robots for real-world environments."</em>
-</p>
+
